@@ -1,0 +1,19 @@
+.map-container {
+  width: 100%;
+  height: 80vh;
+  border: 1px solid #ddd;
+  margin: auto;
+  overflow: hidden;
+  background: #fdfdfd;
+}
+
+.map-svg {
+  width: 100vw;
+  height: 800px;
+}
+
+.info-panel {
+  text-align: center;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
